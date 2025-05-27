@@ -33,7 +33,7 @@ OOP Concepts – Encapsulation, inheritance, and modular class design
 
 To run the game on Windows:
 
-1. Download the ZIP file from the [Releases](https://github.com/your-username/speed-typing-game/releases) section.
+1. Download the ZIP file
 2. Extract the ZIP file.
 3. Double-click on `speedtype.exe` to play.
 
